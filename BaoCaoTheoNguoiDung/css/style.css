@@ -1,0 +1,32 @@
+.title{
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.form-group{
+    display: inline-block;
+    width: 700px;
+}
+
+.lbtext{
+    float: left;
+    width: 40%;
+    font-size: 20px;
+}
+
+.form-control{
+    width: 60%;
+    float: inherit;
+}
+
+.collapse-timVB{
+    width: 700px;
+}
+
+.lbtext1{
+    text-align: left;
+    float: left;
+    width: 30%;
+}
+
